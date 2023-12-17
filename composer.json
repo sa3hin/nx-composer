@@ -1,0 +1,11 @@
+{
+    "name": "nx-composer/package-b",
+    "description": "PHP Package Test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sa3hin"
+        }
+    ]
+}
